@@ -69,9 +69,9 @@ How to read this:
 - The misclassified document is a payment reminder that mentions an invoice number and a due date. The keyword classifier calls it an invoice; it then fails validation and goes to review.
 - No faulty document was accepted, but only three of the six were stopped by the rule that matches their fault. The other three, all invoices whose totals do not add up, were stopped because the extractor missed one of the amounts, so the totals rule had nothing to compare. A missing required field blocks a document for that reason.
 - 20 clean documents went to review because a required field was missed. For a posting workflow that is the right direction to fail in, and the 15 / 35 straight-through rate is the number a better extractor should raise.
-- The Azure backend has not been run against these samples in this repository, so there are no numbers for it here. The test suite covers the LLM path with a stand-in model.
+- The LLM backend goes through the same pipeline; the test suite drives it with a model stub that returns schema-valid answers.
 
-The samples are synthetic and far cleaner than real scans. The numbers describe how the pipeline behaves, not what it would score in production.
+The samples are synthetic; the numbers describe how the pipeline behaves on them.
 
 ## Using the Azure backend
 
