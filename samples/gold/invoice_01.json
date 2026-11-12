@@ -1,0 +1,48 @@
+{
+  "file": "invoice_01.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026415950",
+        "issue_date": "2026-05-08",
+        "due_date": "2026-05-23",
+        "supplier_name": "Ege Lojistik A.Ş.",
+        "supplier_tax_id": "8609139099",
+        "customer_name": "Northwind Supplies Ltd.",
+        "currency": "TRY",
+        "net_amount": "28369.71",
+        "vat_rate": "10",
+        "vat_amount": "2836.97",
+        "gross_amount": "31206.68",
+        "lines": [
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "38",
+            "unit_price": "81.02",
+            "amount": "3078.76"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "33",
+            "unit_price": "286.4",
+            "amount": "9451.2"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "3",
+            "unit_price": "117.65",
+            "amount": "352.95"
+          },
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "28",
+            "unit_price": "553.1",
+            "amount": "15486.8"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

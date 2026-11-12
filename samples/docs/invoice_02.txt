@@ -1,0 +1,24 @@
+INVOICE
+
+Seller: Meridian Industrial Services Ltd.
+Tax Number
+2760189559
+Customer: Toros Enerji Hizmetleri A.Ş.
+
+Invoice No
+A2026367189
+Issue Date            30/03/2026
+Due Date
+29/04/2026
+Currency: EUR
+
+Description                        Qty    Unit Price          Amount
+Filter cartridge                    29        382.40       11,089.60
+Work gloves                         39        100.94        3,936.66
+Hydraulic hose 2 m                   8        676.00        5,408.00
+
+Net Amount
+20,434.26
+VAT Rate: 20%
+VAT Amount: 4,086.85
+Grand Total           24,521.11

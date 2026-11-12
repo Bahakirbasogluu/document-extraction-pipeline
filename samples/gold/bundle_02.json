@@ -1,0 +1,101 @@
+{
+  "file": "bundle_02.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026652182",
+        "issue_date": "2026-04-23",
+        "due_date": "2026-05-23",
+        "supplier_name": "Toros Enerji Hizmetleri A.Ş.",
+        "supplier_tax_id": "9919220014",
+        "customer_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "currency": "USD",
+        "net_amount": "101680.52",
+        "vat_rate": "20",
+        "vat_amount": "20336.10",
+        "gross_amount": "122016.62",
+        "lines": [
+          {
+            "description": "Stretch film 50 cm",
+            "quantity": "21",
+            "unit_price": "256.57",
+            "amount": "5387.97"
+          },
+          {
+            "description": "Filter cartridge",
+            "quantity": "25",
+            "unit_price": "435.64",
+            "amount": "10891.00"
+          },
+          {
+            "description": "Corrugated box",
+            "quantity": "39",
+            "unit_price": "318.48",
+            "amount": "12420.72"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "25",
+            "unit_price": "831.66",
+            "amount": "20791.50"
+          },
+          {
+            "description": "Wooden pallet 80x120",
+            "quantity": "35",
+            "unit_price": "620.37",
+            "amount": "21712.95"
+          },
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "31",
+            "unit_price": "700.49",
+            "amount": "21715.19"
+          },
+          {
+            "description": "Bearing 6204",
+            "quantity": "1",
+            "unit_price": "39.75",
+            "amount": "39.75"
+          },
+          {
+            "description": "Work gloves",
+            "quantity": "28",
+            "unit_price": "311.48",
+            "amount": "8721.44"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS150759",
+        "dispatch_date": "2026-07-12",
+        "sender_name": "Ege Lojistik A.Ş.",
+        "receiver_name": "Marmara Kimya Ltd. Şti.",
+        "plate_number": "42 ZUT 881",
+        "total_packages": 38,
+        "items": [
+          {
+            "description": "Bearing 6204",
+            "quantity": "28",
+            "unit": "pallet"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "2",
+            "unit": "pallet"
+          },
+          {
+            "description": "Filter cartridge",
+            "quantity": "17",
+            "unit": "pallet"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

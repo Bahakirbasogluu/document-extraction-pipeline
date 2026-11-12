@@ -1,0 +1,72 @@
+{
+  "file": "invoice_04.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026345679",
+        "issue_date": "2026-10-02",
+        "due_date": "2026-11-01",
+        "supplier_name": "Ege Lojistik A.Ş.",
+        "supplier_tax_id": "1485253881",
+        "customer_name": "Toros Enerji Hizmetleri A.Ş.",
+        "currency": "USD",
+        "net_amount": "59425.63",
+        "vat_rate": "10",
+        "vat_amount": "5942.56",
+        "gross_amount": "65368.19",
+        "lines": [
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "31",
+            "unit_price": "413.75",
+            "amount": "12826.25"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "6",
+            "unit_price": "193.89",
+            "amount": "1163.34"
+          },
+          {
+            "description": "Work gloves",
+            "quantity": "7",
+            "unit_price": "454.09",
+            "amount": "3178.63"
+          },
+          {
+            "description": "Corrugated box",
+            "quantity": "17",
+            "unit_price": "632.33",
+            "amount": "10749.61"
+          },
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "11",
+            "unit_price": "681.76",
+            "amount": "7499.36"
+          },
+          {
+            "description": "Industrial solvent 20 l",
+            "quantity": "2",
+            "unit_price": "273.97",
+            "amount": "547.94"
+          },
+          {
+            "description": "Bearing 6204",
+            "quantity": "34",
+            "unit_price": "479.15",
+            "amount": "16291.10"
+          },
+          {
+            "description": "Stretch film 50 cm",
+            "quantity": "10",
+            "unit_price": "716.94",
+            "amount": "7169.40"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

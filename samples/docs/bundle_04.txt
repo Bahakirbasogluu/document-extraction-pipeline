@@ -1,0 +1,39 @@
+INVOICE
+
+Seller: Toros Enerji Hizmetleri A.Ş.
+Tax ID: 0968250675
+Customer: Marmara Kimya Ltd. Şti.
+
+Reference: FTR2026039999
+Invoice Date: 09/09/2026
+Due Date: 09/10/2026
+
+Description                        Qty    Unit Price          Amount
+Packing tape 45 mm                  26        830.24       21,586.24
+Industrial solvent 20 l             11        332.75        3,660.25
+
+Subtotal: 25,246.49 USD
+VAT Rate: 20%
+VAT Amount: 5,049.30 USD
+Total Due: 30,295.79 USDINVOICE
+
+Seller: Marmara Kimya Ltd. Şti.
+Tax Number: 2213783257
+Customer: Northwind Supplies Ltd.
+
+Invoice No            A2026871052
+Issue Date: 29/08/2026
+Due Date
+13 September 2026
+Currency: EUR
+
+Description                        Qty    Unit Price          Amount
+Packing tape 45 mm                   7        299.16        2,094.12
+Hydraulic hose 2 m                  20        529.91       10,598.20
+Bearing 6204                        34        291.93        9,925.62
+
+Net Amount: 22,617.94
+VAT Rate: 20%
+VAT Amount            4,523.59
+Total Due
+28,141.53

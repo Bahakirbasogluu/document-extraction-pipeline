@@ -1,0 +1,13 @@
+INSURANCE POLICY
+
+Policy No
+POL-85890364
+Insurer: Crown Mutual Insurance Ltd.
+Insured               Anadolu Yedek Parça Ltd. Şti.
+Start Date: 4 September 2026
+Expiry Date           2027-09-04
+
+Cover: fire, theft and transit risks are covered under the general conditions.
+
+Premium: 32,196.52
+Currency: EUR

@@ -1,0 +1,10 @@
+{
+  "file": "other_03.txt",
+  "documents": [
+    {
+      "type": "unknown",
+      "fields": {},
+      "expected_errors": []
+    }
+  ]
+}

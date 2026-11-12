@@ -1,0 +1,18 @@
+{
+  "file": "policy_01.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-31718404",
+        "insurer_name": "Yıldız Sigorta A.Ş.",
+        "insured_name": "Ege Lojistik A.Ş.",
+        "start_date": "2026-07-02",
+        "end_date": "2027-07-02",
+        "premium_amount": "49029.01",
+        "currency": "TRY"
+      },
+      "expected_errors": []
+    }
+  ]
+}

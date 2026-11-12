@@ -1,0 +1,21 @@
+INVOICE
+
+Seller: Ege Lojistik A.Ş.
+Tax Number: 1489364398
+Customer: Anadolu Yedek Parça Ltd. Şti.
+
+Invoice No
+FTR2026010970
+Issue Date
+03/03/2026
+Due Date: 18 March 2026
+Currency              EUR
+
+Description                        Qty    Unit Price          Amount
+Label roll                          20        172.72        3,454.40
+Corrugated box                      17        697.39       11,855.63
+
+Net Amount: 15,310.03
+VAT Rate: 20%
+VAT Amount: 3,062.01
+Grand Total: 18,372.04

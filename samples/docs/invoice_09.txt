@@ -1,0 +1,19 @@
+FATURA
+
+Tedarikçi             Marmara Kimya Ltd. Şti.
+Vergi No
+4704558531
+Müşteri               Northwind Supplies Ltd.
+
+Fatura No: FTR2026925252
+Fatura Tarihi         2026-04-09
+Vade Tarihi: 2026-03-30
+Para Birimi           TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Filtre kartuşu                      39        322,47       12.576,33
+Rulman 6204                         19         64,29        1.221,51
+
+Ara Toplam            13.797,84
+KDV (%20): 2.759,57
+Genel Toplam: 16.557,41

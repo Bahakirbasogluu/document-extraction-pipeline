@@ -1,0 +1,28 @@
+INVOICE
+
+Supplier: Boğaziçi Tekstil A.Ş.
+Tax ID: 0083740714
+Bill To               Harbor Freight Partners Ltd.
+
+Reference             A2026977802
+Invoice Date: 24 August 2026
+Due Date: 08/10/2026
+Currency: USD
+
+Description                        Qty    Unit Price          Amount
+Wooden pallet 80x120                33        187.59        6,190.47
+Bearing 6204                        34        666.08       22,646.72
+Label roll                          37         26.07          964.59
+Corrugated box                      38        847.64       32,210.32
+Hydraulic hose 2 m                  15        116.53        1,747.95
+Filter cartridge                     2         59.86          119.72Page 2 of 2
+
+Industrial solvent 20 l              9        840.08        7,560.72
+Work gloves                         24        142.51        3,420.24
+
+Subtotal
+74,860.73
+VAT Rate: 20%
+VAT Amount: 14,972.15
+Amount Payable
+89,832.88

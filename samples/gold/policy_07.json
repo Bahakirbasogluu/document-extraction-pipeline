@@ -1,0 +1,18 @@
+{
+  "file": "policy_07.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-92594052",
+        "insurer_name": "Yıldız Sigorta A.Ş.",
+        "insured_name": "Harbor Freight Partners Ltd.",
+        "start_date": "2026-05-02",
+        "end_date": "2027-05-02",
+        "premium_amount": "31154.74",
+        "currency": "TRY"
+      },
+      "expected_errors": []
+    }
+  ]
+}

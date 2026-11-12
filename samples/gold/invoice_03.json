@@ -1,0 +1,56 @@
+{
+  "file": "invoice_03.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026334089",
+        "issue_date": "2026-01-11",
+        "due_date": "2026-02-10",
+        "supplier_name": "Bluefield Components GmbH",
+        "supplier_tax_id": "9244026852",
+        "customer_name": "Toros Enerji Hizmetleri A.Ş.",
+        "currency": "TRY",
+        "net_amount": "44981.95",
+        "vat_rate": "10",
+        "vat_amount": "4498.20",
+        "gross_amount": "50480.15",
+        "lines": [
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "23",
+            "unit_price": "899.85",
+            "amount": "20696.55"
+          },
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "25",
+            "unit_price": "307.45",
+            "amount": "7686.25"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "10",
+            "unit_price": "113.76",
+            "amount": "1137.60"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "12",
+            "unit_price": "203.3",
+            "amount": "2439.6"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "15",
+            "unit_price": "868.13",
+            "amount": "13021.95"
+          }
+        ]
+      },
+      "expected_errors": [
+        "totals_mismatch"
+      ]
+    }
+  ]
+}

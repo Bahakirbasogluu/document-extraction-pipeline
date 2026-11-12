@@ -1,0 +1,26 @@
+FATURA
+
+Satıcı                Ege Lojistik A.Ş.
+Vergi No: 9481131147
+Müşteri: Harbor Freight Partners Ltd.
+
+Fatura Numarası: INV2026041512
+Düzenleme Tarihi
+2026-06-23
+Son Ödeme Tarihi: 7 Ağustos 2026
+Para Birimi: TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Endüstriyel solvent 20 lt           28        680,81       19.062,68
+Streç film 50 cm                    26        449,48       11.686,48
+Koli bandı 45 mm                    27        261,56        7.062,12
+Etiket rulosu                       23        422,49        9.717,27
+Filtre kartuşu                       6        484,66        2.907,96
+Hidrolik hortum 2 m                  2        447,99          895,98Sayfa 2 / 2
+
+Rulman 6204                         36        606,18       21.822,48
+Ahşap palet 80x120                  29         28,70          832,30
+
+Matrah                73.987,27
+KDV (%20): 14.797,45
+Toplam Tutar: 88.784,72

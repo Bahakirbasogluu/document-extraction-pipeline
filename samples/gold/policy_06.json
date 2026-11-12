@@ -1,0 +1,18 @@
+{
+  "file": "policy_06.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-45479229",
+        "insurer_name": "Atlas Sigorta A.Ş.",
+        "insured_name": "Boğaziçi Tekstil A.Ş.",
+        "start_date": "2026-07-16",
+        "end_date": "2027-07-16",
+        "premium_amount": "29810.21",
+        "currency": "EUR"
+      },
+      "expected_errors": []
+    }
+  ]
+}

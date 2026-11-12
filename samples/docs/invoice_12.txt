@@ -1,0 +1,23 @@
+INVOICE
+
+Supplier
+Boğaziçi Tekstil A.Ş.
+Tax Number: 6853560680
+Customer: Marmara Kimya Ltd. Şti.
+
+Invoice No: A2026213318
+Invoice Date: 12 May 2026
+Due Date              11/06/2026
+Currency: USD
+
+Description                        Qty    Unit Price          Amount
+Packing tape 45 mm                  28        365.65       10,238.20
+Label roll                           4        372.83        1,491.32
+Stretch film 50 cm                   7         72.65          508.55
+Wooden pallet 80x120                19        837.25       15,907.75
+
+Subtotal: 28,145.82
+VAT Rate              10%
+VAT Amount
+2,814.58
+Total Due: 30,960.40

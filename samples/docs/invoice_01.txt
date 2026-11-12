@@ -1,0 +1,21 @@
+FATURA
+
+Satıcı: Ege Lojistik A.Ş.
+Vergi No: 8609139099
+Sayın                 Northwind Supplies Ltd.
+
+Belge No: A2026415950
+Fatura Tarihi: 8 Mayıs 2026
+Son Ödeme Tarihi      23 Mayıs 2026
+Para Birimi: TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Oluklu mukavva kutu                 38         81,02        3.078,76
+Streç film 50 cm                    33        286,40        9.451,20
+Filtre kartuşu                       3        117,65          352,95
+Ahşap palet 80x120                  28        553,10       15.486,80
+
+Matrah: 28.369,71
+KDV Oranı: %10
+Hesaplanan KDV: 2.836,97
+Genel Toplam: 31.206,68

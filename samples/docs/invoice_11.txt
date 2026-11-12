@@ -1,0 +1,22 @@
+FATURA
+
+Tedarikçi: Marmara Kimya Ltd. Şti.
+Vergi No: 1874633191
+Müşteri: Anadolu Yedek Parça Ltd. Şti.
+
+Fatura No: FTR2026148626
+Düzenleme Tarihi
+02.06.2026
+Son Ödeme Tarihi: 2026-07-02
+Para Birimi: TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+İş eldiveni                         30        616,24       18.487,20
+Rulman 6204                          8        724,68        5.797,44
+Filtre kartuşu                      13        413,51        5.375,63
+Endüstriyel solvent 20 lt            6        624,89        3.749,34
+
+Matrah: 33.409,61
+KDV Oranı: %10
+Hesaplanan KDV: 3.340,96
+Toplam Tutar: 36.750,57

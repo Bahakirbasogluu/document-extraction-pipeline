@@ -1,0 +1,48 @@
+{
+  "file": "invoice_11.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026148626",
+        "issue_date": "2026-06-02",
+        "due_date": "2026-07-02",
+        "supplier_name": "Marmara Kimya Ltd. Şti.",
+        "supplier_tax_id": "1874633191",
+        "customer_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "currency": "TRY",
+        "net_amount": "33409.61",
+        "vat_rate": "10",
+        "vat_amount": "3340.96",
+        "gross_amount": "36750.57",
+        "lines": [
+          {
+            "description": "İş eldiveni",
+            "quantity": "30",
+            "unit_price": "616.24",
+            "amount": "18487.20"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "8",
+            "unit_price": "724.68",
+            "amount": "5797.44"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "13",
+            "unit_price": "413.51",
+            "amount": "5375.63"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "6",
+            "unit_price": "624.89",
+            "amount": "3749.34"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

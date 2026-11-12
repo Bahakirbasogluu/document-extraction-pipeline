@@ -1,0 +1,29 @@
+{
+  "file": "delivery_note_05.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS239388",
+        "dispatch_date": "2026-08-06",
+        "sender_name": "Marmara Kimya Ltd. Şti.",
+        "receiver_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "plate_number": "59 ZHV 877",
+        "total_packages": 17,
+        "items": [
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "46",
+            "unit": "kg"
+          },
+          {
+            "description": "İş eldiveni",
+            "quantity": "12",
+            "unit": "koli"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

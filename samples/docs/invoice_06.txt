@@ -1,0 +1,21 @@
+INVOICE
+
+Seller: Ege Lojistik A.Ş.
+Tax ID: 0334018786
+Bill To: Meridian Industrial Services Ltd.
+
+Invoice No: FTR2026464780
+Invoice Date: 28/02/2026
+Due Date              14 April 2026
+Currency: EUR
+
+Description                        Qty    Unit Price          Amount
+Wooden pallet 80x120                36         85.94        3,093.84
+Work gloves                         21        899.34       18,886.14
+Stretch film 50 cm                  34        700.63       23,821.42
+
+Net Amount
+45,801.40
+VAT Rate: 20%
+VAT Amount: 9,160.28
+Total Due             54,971.68

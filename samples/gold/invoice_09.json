@@ -1,0 +1,38 @@
+{
+  "file": "invoice_09.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026925252",
+        "issue_date": "2026-04-09",
+        "due_date": "2026-03-30",
+        "supplier_name": "Marmara Kimya Ltd. Şti.",
+        "supplier_tax_id": "4704558531",
+        "customer_name": "Northwind Supplies Ltd.",
+        "currency": "TRY",
+        "net_amount": "13797.84",
+        "vat_rate": "20",
+        "vat_amount": "2759.57",
+        "gross_amount": "16557.41",
+        "lines": [
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "39",
+            "unit_price": "322.47",
+            "amount": "12576.33"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "19",
+            "unit_price": "64.29",
+            "amount": "1221.51"
+          }
+        ]
+      },
+      "expected_errors": [
+        "due_before_issue"
+      ]
+    }
+  ]
+}

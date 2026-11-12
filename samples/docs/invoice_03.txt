@@ -1,0 +1,22 @@
+FATURA
+
+Satıcı: Bluefield Components GmbH
+Vergi No: 9244026852
+Müşteri: Toros Enerji Hizmetleri A.Ş.
+
+Fatura Numarası: A2026334089
+Fatura Tarihi
+2026-01-11
+Son Ödeme Tarihi      10 Şubat 2026
+Para Birimi           TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Ahşap palet 80x120                  23        899,85       20.696,55
+Koli bandı 45 mm                    25        307,45        7.686,25
+Rulman 6204                         10        113,76        1.137,60
+Hidrolik hortum 2 m                 12        203,30        2.439,60
+Endüstriyel solvent 20 lt           15        868,13       13.021,95
+
+Ara Toplam: 44.981,95
+KDV (%10): 4.498,20
+Genel Toplam: 50.480,15

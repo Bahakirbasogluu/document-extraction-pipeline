@@ -1,0 +1,39 @@
+{
+  "file": "delivery_note_03.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS136547",
+        "dispatch_date": "2026-08-30",
+        "sender_name": "Harbor Freight Partners Ltd.",
+        "receiver_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "plate_number": "09 BKG 775",
+        "total_packages": 10,
+        "items": [
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "24",
+            "unit": "kg"
+          },
+          {
+            "description": "İş eldiveni",
+            "quantity": "2",
+            "unit": "kg"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "16",
+            "unit": "kg"
+          },
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "3",
+            "unit": "kg"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

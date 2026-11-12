@@ -1,0 +1,36 @@
+{
+  "file": "invoice_14.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026010970",
+        "issue_date": "2026-03-03",
+        "due_date": "2026-03-18",
+        "supplier_name": "Ege Lojistik A.Ş.",
+        "supplier_tax_id": "1489364398",
+        "customer_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "currency": "EUR",
+        "net_amount": "15310.03",
+        "vat_rate": "20",
+        "vat_amount": "3062.01",
+        "gross_amount": "18372.04",
+        "lines": [
+          {
+            "description": "Label roll",
+            "quantity": "20",
+            "unit_price": "172.72",
+            "amount": "3454.40"
+          },
+          {
+            "description": "Corrugated box",
+            "quantity": "17",
+            "unit_price": "697.39",
+            "amount": "11855.63"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

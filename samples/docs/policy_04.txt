@@ -1,0 +1,14 @@
+INSURANCE POLICY
+
+Policy No             POL-15456169
+Insurer: Atlas Sigorta A.Ş.
+Insured
+Bluefield Components GmbH
+Start Date
+23/09/2026
+End Date              2027-09-23
+
+Cover: fire, theft and transit risks are covered under the general conditions.
+
+Premium               8,339.53
+Currency: EUR

@@ -1,0 +1,48 @@
+{
+  "file": "invoice_05.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026575312",
+        "issue_date": "2026-04-02",
+        "due_date": "2026-04-17",
+        "supplier_name": "Marmara Kimya Ltd. Şti.",
+        "supplier_tax_id": "0297299755",
+        "customer_name": "Meridian Industrial Services Ltd.",
+        "currency": "TRY",
+        "net_amount": "45024.50",
+        "vat_rate": "10",
+        "vat_amount": "4502.45",
+        "gross_amount": "49526.95",
+        "lines": [
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "28",
+            "unit_price": "838.41",
+            "amount": "23475.48"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "22",
+            "unit_price": "118.7",
+            "amount": "2611.4"
+          },
+          {
+            "description": "İş eldiveni",
+            "quantity": "26",
+            "unit_price": "612.07",
+            "amount": "15913.82"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "26",
+            "unit_price": "116.3",
+            "amount": "3023.8"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

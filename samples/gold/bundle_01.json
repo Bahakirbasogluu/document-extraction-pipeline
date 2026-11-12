@@ -1,0 +1,66 @@
+{
+  "file": "bundle_01.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS660058",
+        "dispatch_date": "2026-04-29",
+        "sender_name": "Kuzey Ambalaj Sanayi A.Ş.",
+        "receiver_name": "Meridian Industrial Services Ltd.",
+        "plate_number": "53 YLY 146",
+        "total_packages": 28,
+        "items": [
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "20",
+            "unit": "adet"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "34",
+            "unit": "palet"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "INV2026209211",
+        "issue_date": "2026-07-31",
+        "due_date": "2026-08-15",
+        "supplier_name": "Kuzey Ambalaj Sanayi A.Ş.",
+        "supplier_tax_id": "3201098325",
+        "customer_name": "Bluefield Components GmbH",
+        "currency": "TRY",
+        "net_amount": "6411.63",
+        "vat_rate": "10",
+        "vat_amount": "641.16",
+        "gross_amount": "7052.79",
+        "lines": [
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "16",
+            "unit_price": "221.39",
+            "amount": "3542.24"
+          },
+          {
+            "description": "İş eldiveni",
+            "quantity": "1",
+            "unit_price": "62.67",
+            "amount": "62.67"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "4",
+            "unit_price": "701.68",
+            "amount": "2806.72"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

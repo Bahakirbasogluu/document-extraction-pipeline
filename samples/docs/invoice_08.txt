@@ -1,0 +1,21 @@
+INVOICE
+
+Supplier: Toros Enerji Hizmetleri A.Ş.
+Tax ID: 8245040000
+Customer: Ege Lojistik A.Ş.
+
+Invoice Number: A2026530217
+Issue Date: 02/06/2026
+Due Date              2 July 2026
+
+Description                        Qty    Unit Price          Amount
+Corrugated box                      11        348.27        3,830.97
+Filter cartridge                     4        242.43          969.72
+Industrial solvent 20 l             13        413.93        5,381.09
+Label roll                          20        701.10       14,022.00
+
+Subtotal: 24,203.78 USD
+VAT Rate: 10%
+VAT Amount
+2,420.38 USD
+Total Due: 26,624.16 USD

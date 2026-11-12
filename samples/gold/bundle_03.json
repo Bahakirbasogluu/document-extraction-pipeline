@@ -1,0 +1,100 @@
+{
+  "file": "bundle_03.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-80270461",
+        "insurer_name": "Atlas Sigorta A.Ş.",
+        "insured_name": "Ege Lojistik A.Ş.",
+        "start_date": "2026-08-16",
+        "end_date": "2027-08-16",
+        "premium_amount": "1717.94",
+        "currency": "TRY"
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026791126",
+        "issue_date": "2026-06-09",
+        "due_date": "2026-07-09",
+        "supplier_name": "Marmara Kimya Ltd. Şti.",
+        "supplier_tax_id": "6882637286",
+        "customer_name": "Harbor Freight Partners Ltd.",
+        "currency": "TRY",
+        "net_amount": "31611.25",
+        "vat_rate": "10",
+        "vat_amount": "3161.12",
+        "gross_amount": "34772.37",
+        "lines": [
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "7",
+            "unit_price": "530.95",
+            "amount": "3716.65"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "26",
+            "unit_price": "117.94",
+            "amount": "3066.44"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "28",
+            "unit_price": "851.54",
+            "amount": "23843.12"
+          },
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "2",
+            "unit_price": "492.52",
+            "amount": "985.04"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS586451",
+        "dispatch_date": "2026-01-22",
+        "sender_name": "Marmara Kimya Ltd. Şti.",
+        "receiver_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "plate_number": "02 PRH 522",
+        "total_packages": 39,
+        "items": [
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "28",
+            "unit": "palet"
+          },
+          {
+            "description": "Etiket rulosu",
+            "quantity": "13",
+            "unit": "adet"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "41",
+            "unit": "adet"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "18",
+            "unit": "koli"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "57",
+            "unit": "kg"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "file": "delivery_note_06.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS104710",
+        "dispatch_date": "2026-09-05",
+        "sender_name": "Northwind Supplies Ltd.",
+        "receiver_name": "Toros Enerji Hizmetleri A.Ş.",
+        "plate_number": "30 SNB 907",
+        "total_packages": 39,
+        "items": [
+          {
+            "description": "Filter cartridge",
+            "quantity": "42",
+            "unit": "pcs"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "42",
+            "unit": "kg"
+          },
+          {
+            "description": "Industrial solvent 20 l",
+            "quantity": "3",
+            "unit": "pcs"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

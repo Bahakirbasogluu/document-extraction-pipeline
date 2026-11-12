@@ -1,0 +1,50 @@
+{
+  "file": "invoice_12.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026213318",
+        "issue_date": "2026-05-12",
+        "due_date": "2026-06-11",
+        "supplier_name": "Boğaziçi Tekstil A.Ş.",
+        "supplier_tax_id": "6853560680",
+        "customer_name": "Marmara Kimya Ltd. Şti.",
+        "currency": "USD",
+        "net_amount": "28145.82",
+        "vat_rate": "10",
+        "vat_amount": "2814.58",
+        "gross_amount": "30960.40",
+        "lines": [
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "28",
+            "unit_price": "365.65",
+            "amount": "10238.20"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "4",
+            "unit_price": "372.83",
+            "amount": "1491.32"
+          },
+          {
+            "description": "Stretch film 50 cm",
+            "quantity": "7",
+            "unit_price": "72.65",
+            "amount": "508.55"
+          },
+          {
+            "description": "Wooden pallet 80x120",
+            "quantity": "19",
+            "unit_price": "837.25",
+            "amount": "15907.75"
+          }
+        ]
+      },
+      "expected_errors": [
+        "invalid_tax_id"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "file": "invoice_13.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026377640",
+        "issue_date": "2026-08-04",
+        "due_date": "2026-09-03",
+        "supplier_name": "Boğaziçi Tekstil A.Ş.",
+        "supplier_tax_id": "6836450744",
+        "customer_name": "Harbor Freight Partners Ltd.",
+        "currency": "TRY",
+        "net_amount": "34838.53",
+        "vat_rate": "10",
+        "vat_amount": "3483.85",
+        "gross_amount": "38322.38",
+        "lines": [
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "12",
+            "unit_price": "453.2",
+            "amount": "5438.4"
+          },
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "36",
+            "unit_price": "124.39",
+            "amount": "4478.04"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "21",
+            "unit_price": "318.42",
+            "amount": "6686.82"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "24",
+            "unit_price": "343.63",
+            "amount": "8247.12"
+          },
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "37",
+            "unit_price": "269.95",
+            "amount": "9988.15"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "file": "invoice_08.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026530217",
+        "issue_date": "2026-06-02",
+        "due_date": "2026-07-02",
+        "supplier_name": "Toros Enerji Hizmetleri A.Ş.",
+        "supplier_tax_id": "8245040000",
+        "customer_name": "Ege Lojistik A.Ş.",
+        "currency": "USD",
+        "net_amount": "24203.78",
+        "vat_rate": "10",
+        "vat_amount": "2420.38",
+        "gross_amount": "26624.16",
+        "lines": [
+          {
+            "description": "Corrugated box",
+            "quantity": "11",
+            "unit_price": "348.27",
+            "amount": "3830.97"
+          },
+          {
+            "description": "Filter cartridge",
+            "quantity": "4",
+            "unit_price": "242.43",
+            "amount": "969.72"
+          },
+          {
+            "description": "Industrial solvent 20 l",
+            "quantity": "13",
+            "unit_price": "413.93",
+            "amount": "5381.09"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "20",
+            "unit_price": "701.1",
+            "amount": "14022.0"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

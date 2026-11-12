@@ -1,0 +1,49 @@
+SİGORTA POLİÇESİ
+
+Poliçe No
+POL-80270461
+Sigorta Şirketi       Atlas Sigorta A.Ş.
+Sigortalı: Ege Lojistik A.Ş.
+Başlangıç Tarihi: 16.08.2026
+Bitiş Tarihi: 16 Ağustos 2027
+
+Teminat: Yangın, hırsızlık ve nakliye rizikoları poliçe genel şartlarına göre teminat altındadır.
+
+Toplam Prim: 1.717,94
+Para Birimi: TRYFATURA
+
+Satıcı: Marmara Kimya Ltd. Şti.
+VKN: 6882637286
+Müşteri: Harbor Freight Partners Ltd.
+
+Fatura No: A2026791126
+Fatura Tarihi         09.06.2026
+Vade Tarihi: 09.07.2026
+Para Birimi: TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Filtre kartuşu                       7        530,95        3.716,65
+Streç film 50 cm                    26        117,94        3.066,44
+Hidrolik hortum 2 m                 28        851,54       23.843,12
+Ahşap palet 80x120                   2        492,52          985,04
+
+Ara Toplam: 31.611,25
+KDV Oranı             %10
+Hesaplanan KDV: 3.161,12
+Genel Toplam          34.772,37SEVK İRSALİYESİ
+
+İrsaliye No           IRS586451
+Sevk Tarihi: 22.01.2026
+Gönderen: Marmara Kimya Ltd. Şti.
+Alıcı: Anadolu Yedek Parça Ltd. Şti.
+Araç Plakası: 02 PRH 522
+
+Malzeme                         Miktar
+Ahşap palet 80x120              28 palet
+Etiket rulosu                   13 adet
+Rulman 6204                     41 adet
+Hidrolik hortum 2 m             18 koli
+Filtre kartuşu                  57 kg
+
+Toplam Koli: 39
+Malzeme eksiksiz teslim alınmıştır.

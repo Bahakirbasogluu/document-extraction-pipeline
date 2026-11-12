@@ -1,0 +1,29 @@
+{
+  "file": "delivery_note_02.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS133442",
+        "dispatch_date": "2026-06-13",
+        "sender_name": "Boğaziçi Tekstil A.Ş.",
+        "receiver_name": "Marmara Kimya Ltd. Şti.",
+        "plate_number": "49 NMS 183",
+        "total_packages": 15,
+        "items": [
+          {
+            "description": "Wooden pallet 80x120",
+            "quantity": "13",
+            "unit": "box"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "42",
+            "unit": "kg"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

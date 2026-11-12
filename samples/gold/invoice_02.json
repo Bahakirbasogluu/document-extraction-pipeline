@@ -1,0 +1,42 @@
+{
+  "file": "invoice_02.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026367189",
+        "issue_date": "2026-03-30",
+        "due_date": "2026-04-29",
+        "supplier_name": "Meridian Industrial Services Ltd.",
+        "supplier_tax_id": "2760189559",
+        "customer_name": "Toros Enerji Hizmetleri A.Ş.",
+        "currency": "EUR",
+        "net_amount": "20434.26",
+        "vat_rate": "20",
+        "vat_amount": "4086.85",
+        "gross_amount": "24521.11",
+        "lines": [
+          {
+            "description": "Filter cartridge",
+            "quantity": "29",
+            "unit_price": "382.4",
+            "amount": "11089.6"
+          },
+          {
+            "description": "Work gloves",
+            "quantity": "39",
+            "unit_price": "100.94",
+            "amount": "3936.66"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "8",
+            "unit_price": "676",
+            "amount": "5408"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

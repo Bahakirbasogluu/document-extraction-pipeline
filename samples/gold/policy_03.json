@@ -1,0 +1,18 @@
+{
+  "file": "policy_03.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-62239157",
+        "insurer_name": "Atlas Sigorta A.Ş.",
+        "insured_name": "Meridian Industrial Services Ltd.",
+        "start_date": "2026-05-12",
+        "end_date": "2027-05-12",
+        "premium_amount": "72927.29",
+        "currency": "TRY"
+      },
+      "expected_errors": []
+    }
+  ]
+}

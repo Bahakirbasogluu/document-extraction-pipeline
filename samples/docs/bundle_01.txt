@@ -1,0 +1,33 @@
+SEVK İRSALİYESİ
+
+İrsaliye No           IRS660058
+Sevk Tarihi: 2026-04-29
+Gönderen              Kuzey Ambalaj Sanayi A.Ş.
+Teslim Alan: Meridian Industrial Services Ltd.
+Plaka: 53 YLY 146
+
+Malzeme                         Miktar
+Oluklu mukavva kutu             20 adet
+Hidrolik hortum 2 m             34 palet
+
+Toplam Koli: 28
+Malzeme eksiksiz teslim alınmıştır.FATURA
+
+Tedarikçi: Kuzey Ambalaj Sanayi A.Ş.
+Vergi No: 3201098325
+Sayın: Bluefield Components GmbH
+
+Fatura Numarası: INV2026209211
+Düzenleme Tarihi: 2026-07-31
+Vade Tarihi: 15.08.2026
+Para Birimi: TRY
+
+Açıklama                        Miktar   Birim Fiyat           Tutar
+Hidrolik hortum 2 m                 16        221,39        3.542,24
+İş eldiveni                          1         62,67           62,67
+Filtre kartuşu                       4        701,68        2.806,72
+
+Matrah                6.411,63
+KDV Oranı: %10
+Hesaplanan KDV: 641,16
+Ödenecek Tutar: 7.052,79

@@ -1,0 +1,26 @@
+INVOICE
+
+Supplier: Ege Lojistik A.Ş.
+Tax ID: 1485253881
+Bill To: Toros Enerji Hizmetleri A.Ş.
+
+Invoice Number: A2026345679
+Invoice Date: 2026-10-02
+Due Date              01/11/2026
+Currency: USD
+
+Description                        Qty    Unit Price          Amount
+Hydraulic hose 2 m                  31        413.75       12,826.25
+Label roll                           6        193.89        1,163.34
+Work gloves                          7        454.09        3,178.63
+Corrugated box                      17        632.33       10,749.61
+Packing tape 45 mm                  11        681.76        7,499.36
+Industrial solvent 20 l              2        273.97          547.94Page 2 of 2
+
+Bearing 6204                        34        479.15       16,291.10
+Stretch film 50 cm                  10        716.94        7,169.40
+
+Net Amount: 59,425.63
+VAT Rate              10%
+VAT Amount            5,942.56
+Grand Total: 65,368.19

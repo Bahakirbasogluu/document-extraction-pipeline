@@ -1,0 +1,125 @@
+{
+  "file": "bundle_05.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS362171",
+        "dispatch_date": "2026-02-25",
+        "sender_name": "Meridian Industrial Services Ltd.",
+        "receiver_name": "Boğaziçi Tekstil A.Ş.",
+        "plate_number": "75 EHF 804",
+        "total_packages": 59,
+        "items": [
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "43",
+            "unit": "adet"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "14",
+            "unit": "adet"
+          },
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "42",
+            "unit": "palet"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS684269",
+        "dispatch_date": "2026-02-03",
+        "sender_name": "Marmara Kimya Ltd. Şti.",
+        "receiver_name": "Bluefield Components GmbH",
+        "plate_number": "62 SET 262",
+        "total_packages": 65,
+        "items": [
+          {
+            "description": "Rulman 6204",
+            "quantity": "15",
+            "unit": "koli"
+          },
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "31",
+            "unit": "kg"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "INV2026915370",
+        "issue_date": "2026-08-09",
+        "due_date": "2026-09-08",
+        "supplier_name": "Boğaziçi Tekstil A.Ş.",
+        "supplier_tax_id": "8044576585",
+        "customer_name": "Kuzey Ambalaj Sanayi A.Ş.",
+        "currency": "TRY",
+        "net_amount": "71732.46",
+        "vat_rate": "20",
+        "vat_amount": "14346.49",
+        "gross_amount": "86078.95",
+        "lines": [
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "10",
+            "unit_price": "49.42",
+            "amount": "494.20"
+          },
+          {
+            "description": "Etiket rulosu",
+            "quantity": "14",
+            "unit_price": "549.72",
+            "amount": "7696.08"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "9",
+            "unit_price": "448.81",
+            "amount": "4039.29"
+          },
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "7",
+            "unit_price": "868.79",
+            "amount": "6081.53"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "24",
+            "unit_price": "452.36",
+            "amount": "10856.64"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "31",
+            "unit_price": "693.83",
+            "amount": "21508.73"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "36",
+            "unit_price": "281.2",
+            "amount": "10123.2"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "19",
+            "unit_price": "575.41",
+            "amount": "10932.79"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

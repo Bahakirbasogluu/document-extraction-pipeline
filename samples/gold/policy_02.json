@@ -1,0 +1,18 @@
+{
+  "file": "policy_02.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-85890364",
+        "insurer_name": "Crown Mutual Insurance Ltd.",
+        "insured_name": "Anadolu Yedek Parça Ltd. Şti.",
+        "start_date": "2026-09-04",
+        "end_date": "2027-09-04",
+        "premium_amount": "32196.52",
+        "currency": "EUR"
+      },
+      "expected_errors": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "file": "invoice_07.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "INV2026041512",
+        "issue_date": "2026-06-23",
+        "due_date": "2026-08-07",
+        "supplier_name": "Ege Lojistik A.Ş.",
+        "supplier_tax_id": "9481131147",
+        "customer_name": "Harbor Freight Partners Ltd.",
+        "currency": "TRY",
+        "net_amount": "73987.27",
+        "vat_rate": "20",
+        "vat_amount": "14797.45",
+        "gross_amount": "88784.72",
+        "lines": [
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "28",
+            "unit_price": "680.81",
+            "amount": "19062.68"
+          },
+          {
+            "description": "Streç film 50 cm",
+            "quantity": "26",
+            "unit_price": "449.48",
+            "amount": "11686.48"
+          },
+          {
+            "description": "Koli bandı 45 mm",
+            "quantity": "27",
+            "unit_price": "261.56",
+            "amount": "7062.12"
+          },
+          {
+            "description": "Etiket rulosu",
+            "quantity": "23",
+            "unit_price": "422.49",
+            "amount": "9717.27"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "6",
+            "unit_price": "484.66",
+            "amount": "2907.96"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "2",
+            "unit_price": "447.99",
+            "amount": "895.98"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "36",
+            "unit_price": "606.18",
+            "amount": "21822.48"
+          },
+          {
+            "description": "Ahşap palet 80x120",
+            "quantity": "29",
+            "unit_price": "28.7",
+            "amount": "832.3"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

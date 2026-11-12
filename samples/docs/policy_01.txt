@@ -1,0 +1,12 @@
+SİGORTA POLİÇESİ
+
+Poliçe No             POL-31718404
+Sigorta Şirketi: Yıldız Sigorta A.Ş.
+Sigortalı: Ege Lojistik A.Ş.
+Başlangıç Tarihi: 2026-07-02
+Bitiş Tarihi: 02.07.2027
+
+Teminat: Yangın, hırsızlık ve nakliye rizikoları poliçe genel şartlarına göre teminat altındadır.
+
+Toplam Prim: 49.029,01
+Para Birimi: TRY

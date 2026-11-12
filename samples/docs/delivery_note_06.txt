@@ -1,0 +1,15 @@
+DELIVERY NOTE
+
+Delivery Note No      IRS104710
+Dispatch Date: 5 September 2026
+Shipper: Northwind Supplies Ltd.
+Receiver: Toros Enerji Hizmetleri A.Ş.
+Plate: 30 SNB 907
+
+Item                            Quantity
+Filter cartridge                42 pcs
+Label roll                      42 kg
+Industrial solvent 20 l         3 pcs
+
+Total Packages        39
+Goods received in full.

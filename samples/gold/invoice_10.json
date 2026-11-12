@@ -1,0 +1,72 @@
+{
+  "file": "invoice_10.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026977802",
+        "issue_date": "2026-08-24",
+        "due_date": "2026-10-08",
+        "supplier_name": "Boğaziçi Tekstil A.Ş.",
+        "supplier_tax_id": "0083740714",
+        "customer_name": "Harbor Freight Partners Ltd.",
+        "currency": "USD",
+        "net_amount": "74860.73",
+        "vat_rate": "20",
+        "vat_amount": "14972.15",
+        "gross_amount": "89832.88",
+        "lines": [
+          {
+            "description": "Wooden pallet 80x120",
+            "quantity": "33",
+            "unit_price": "187.59",
+            "amount": "6190.47"
+          },
+          {
+            "description": "Bearing 6204",
+            "quantity": "34",
+            "unit_price": "666.08",
+            "amount": "22646.72"
+          },
+          {
+            "description": "Label roll",
+            "quantity": "37",
+            "unit_price": "26.07",
+            "amount": "964.59"
+          },
+          {
+            "description": "Corrugated box",
+            "quantity": "38",
+            "unit_price": "847.64",
+            "amount": "32210.32"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "15",
+            "unit_price": "116.53",
+            "amount": "1747.95"
+          },
+          {
+            "description": "Filter cartridge",
+            "quantity": "2",
+            "unit_price": "59.86",
+            "amount": "119.72"
+          },
+          {
+            "description": "Industrial solvent 20 l",
+            "quantity": "9",
+            "unit_price": "840.08",
+            "amount": "7560.72"
+          },
+          {
+            "description": "Work gloves",
+            "quantity": "24",
+            "unit_price": "142.51",
+            "amount": "3420.24"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

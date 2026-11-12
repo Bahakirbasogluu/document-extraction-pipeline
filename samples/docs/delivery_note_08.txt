@@ -1,0 +1,17 @@
+DELIVERY NOTE
+
+Delivery Note No: IRS509711
+Delivery Date: 31/07/2026
+Sender
+Northwind Supplies Ltd.
+Receiver: Toros Enerji Hizmetleri A.Ş.
+Plate                 27 ARF 443
+
+Item                            Quantity
+Packing tape 45 mm              37 pallet
+Corrugated box                  27 kg
+Bearing 6204                    2 pallet
+Hydraulic hose 2 m              42 box
+
+Total Packages: 16
+Goods received in full.

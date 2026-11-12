@@ -1,0 +1,34 @@
+{
+  "file": "delivery_note_07.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS954320",
+        "dispatch_date": "2026-01-10",
+        "sender_name": "Meridian Industrial Services Ltd.",
+        "receiver_name": "Boğaziçi Tekstil A.Ş.",
+        "plate_number": "42 RNF 645",
+        "total_packages": 41,
+        "items": [
+          {
+            "description": "Oluklu mukavva kutu",
+            "quantity": "10",
+            "unit": "adet"
+          },
+          {
+            "description": "Hidrolik hortum 2 m",
+            "quantity": "14",
+            "unit": "palet"
+          },
+          {
+            "description": "Filtre kartuşu",
+            "quantity": "3",
+            "unit": "koli"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

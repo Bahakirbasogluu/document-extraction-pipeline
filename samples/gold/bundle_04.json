@@ -1,0 +1,75 @@
+{
+  "file": "bundle_04.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026039999",
+        "issue_date": "2026-09-09",
+        "due_date": "2026-10-09",
+        "supplier_name": "Toros Enerji Hizmetleri A.Ş.",
+        "supplier_tax_id": "0968250675",
+        "customer_name": "Marmara Kimya Ltd. Şti.",
+        "currency": "USD",
+        "net_amount": "25246.49",
+        "vat_rate": "20",
+        "vat_amount": "5049.30",
+        "gross_amount": "30295.79",
+        "lines": [
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "26",
+            "unit_price": "830.24",
+            "amount": "21586.24"
+          },
+          {
+            "description": "Industrial solvent 20 l",
+            "quantity": "11",
+            "unit_price": "332.75",
+            "amount": "3660.25"
+          }
+        ]
+      },
+      "expected_errors": []
+    },
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "A2026871052",
+        "issue_date": "2026-08-29",
+        "due_date": "2026-09-13",
+        "supplier_name": "Marmara Kimya Ltd. Şti.",
+        "supplier_tax_id": "2213783257",
+        "customer_name": "Northwind Supplies Ltd.",
+        "currency": "EUR",
+        "net_amount": "22617.94",
+        "vat_rate": "20",
+        "vat_amount": "4523.59",
+        "gross_amount": "28141.53",
+        "lines": [
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "7",
+            "unit_price": "299.16",
+            "amount": "2094.12"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "20",
+            "unit_price": "529.91",
+            "amount": "10598.20"
+          },
+          {
+            "description": "Bearing 6204",
+            "quantity": "34",
+            "unit_price": "291.93",
+            "amount": "9925.62"
+          }
+        ]
+      },
+      "expected_errors": [
+        "totals_mismatch"
+      ]
+    }
+  ]
+}

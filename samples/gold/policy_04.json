@@ -1,0 +1,18 @@
+{
+  "file": "policy_04.txt",
+  "documents": [
+    {
+      "type": "insurance_policy",
+      "fields": {
+        "policy_number": "POL-15456169",
+        "insurer_name": "Atlas Sigorta A.Ş.",
+        "insured_name": "Bluefield Components GmbH",
+        "start_date": "2026-09-23",
+        "end_date": "2027-09-23",
+        "premium_amount": "8339.53",
+        "currency": "EUR"
+      },
+      "expected_errors": []
+    }
+  ]
+}

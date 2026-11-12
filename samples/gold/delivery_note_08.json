@@ -1,0 +1,39 @@
+{
+  "file": "delivery_note_08.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS509711",
+        "dispatch_date": "2026-07-31",
+        "sender_name": "Northwind Supplies Ltd.",
+        "receiver_name": "Toros Enerji Hizmetleri A.Ş.",
+        "plate_number": "27 ARF 443",
+        "total_packages": 16,
+        "items": [
+          {
+            "description": "Packing tape 45 mm",
+            "quantity": "37",
+            "unit": "pallet"
+          },
+          {
+            "description": "Corrugated box",
+            "quantity": "27",
+            "unit": "kg"
+          },
+          {
+            "description": "Bearing 6204",
+            "quantity": "2",
+            "unit": "pallet"
+          },
+          {
+            "description": "Hydraulic hose 2 m",
+            "quantity": "42",
+            "unit": "box"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+INVOICE
+
+Supplier: Toros Enerji Hizmetleri A.Ş.
+Tax ID: 9919220014
+Customer
+Anadolu Yedek Parça Ltd. Şti.
+
+Invoice No: FTR2026652182
+Invoice Date: 2026-04-23
+Due Date: 23/05/2026
+Currency: USD
+
+Description                        Qty    Unit Price          Amount
+Stretch film 50 cm                  21        256.57        5,387.97
+Filter cartridge                    25        435.64       10,891.00
+Corrugated box                      39        318.48       12,420.72
+Label roll                          25        831.66       20,791.50
+Wooden pallet 80x120                35        620.37       21,712.95
+Packing tape 45 mm                  31        700.49       21,715.19Page 2 of 2
+
+Bearing 6204                         1         39.75           39.75
+Work gloves                         28        311.48        8,721.44
+
+Net Amount            101,680.52
+VAT Rate
+20%
+VAT Amount: 20,336.10
+Total Due: 122,016.62DELIVERY NOTE
+
+Delivery Note No: IRS150759
+Delivery Date: 2026-07-12
+Sender: Ege Lojistik A.Ş.
+Receiver: Marmara Kimya Ltd. Şti.
+Plate: 42 ZUT 881
+
+Item                            Quantity
+Bearing 6204                    28 pallet
+Hydraulic hose 2 m              2 pallet
+Filter cartridge                17 pallet
+
+Total Packages: 38
+Goods received in full.

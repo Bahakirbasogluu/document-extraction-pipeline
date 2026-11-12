@@ -1,0 +1,44 @@
+{
+  "file": "invoice_06.txt",
+  "documents": [
+    {
+      "type": "invoice",
+      "fields": {
+        "invoice_number": "FTR2026464780",
+        "issue_date": "2026-02-28",
+        "due_date": "2026-04-14",
+        "supplier_name": "Ege Lojistik A.Ş.",
+        "supplier_tax_id": "0334018786",
+        "customer_name": "Meridian Industrial Services Ltd.",
+        "currency": "EUR",
+        "net_amount": "45801.40",
+        "vat_rate": "20",
+        "vat_amount": "9160.28",
+        "gross_amount": "54971.68",
+        "lines": [
+          {
+            "description": "Wooden pallet 80x120",
+            "quantity": "36",
+            "unit_price": "85.94",
+            "amount": "3093.84"
+          },
+          {
+            "description": "Work gloves",
+            "quantity": "21",
+            "unit_price": "899.34",
+            "amount": "18886.14"
+          },
+          {
+            "description": "Stretch film 50 cm",
+            "quantity": "34",
+            "unit_price": "700.63",
+            "amount": "23821.42"
+          }
+        ]
+      },
+      "expected_errors": [
+        "totals_mismatch"
+      ]
+    }
+  ]
+}

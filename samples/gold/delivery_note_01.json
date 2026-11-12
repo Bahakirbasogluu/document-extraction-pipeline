@@ -1,0 +1,34 @@
+{
+  "file": "delivery_note_01.txt",
+  "documents": [
+    {
+      "type": "delivery_note",
+      "fields": {
+        "note_number": "IRS897411",
+        "dispatch_date": "2026-06-05",
+        "sender_name": "Bluefield Components GmbH",
+        "receiver_name": "Marmara Kimya Ltd. Şti.",
+        "plate_number": "14 ZTZ 201",
+        "total_packages": 30,
+        "items": [
+          {
+            "description": "İş eldiveni",
+            "quantity": "50",
+            "unit": "koli"
+          },
+          {
+            "description": "Endüstriyel solvent 20 lt",
+            "quantity": "15",
+            "unit": "kg"
+          },
+          {
+            "description": "Rulman 6204",
+            "quantity": "15",
+            "unit": "palet"
+          }
+        ]
+      },
+      "expected_errors": []
+    }
+  ]
+}
