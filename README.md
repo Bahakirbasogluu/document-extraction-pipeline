@@ -1,5 +1,7 @@
 # docpipe
 
+[![CI](https://github.com/Bahakirbasogluu/document-extraction-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Bahakirbasogluu/document-extraction-pipeline/actions/workflows/ci.yml)
+
 A schema-driven document extraction pipeline. It takes scanned business documents (invoices, delivery notes, insurance policies), splits bundles into single documents, classifies each one, extracts its fields into a typed schema, checks them against business rules and maps the accepted ones to the record a downstream system expects. Documents that fail a rule go to review with the reason attached.
 
 The design comes from document-processing systems I have built for accounting and logistics teams. The code here is written from scratch and runs on synthetic documents; it contains no client code or data.
